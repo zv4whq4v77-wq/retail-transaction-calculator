@@ -1,14 +1,14 @@
-# Python Cost Calculator
+# Retail Transaction Cost Calculator
 
-This project is a Python program that calculates the total cost of an item including tax and discounts.
+This project is a Python-based application that calculates the total cost of a purchase including tax and discounts.
 
 ## Features
 - Calculates total price with tax and discount
 - Uses functions for clean and reusable code
-- Demonstrates basic Python logic and arithmetic operations
+- Simulates real-world retail transactions
 
 ## Technologies Used
 - Python
 
 ## Purpose
-Built to practice real-world transaction calculations and strengthen programming skills.
+This project was built to practice programming logic and simulate real-world transaction calculations using Python.
